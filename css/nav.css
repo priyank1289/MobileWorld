@@ -1,3 +1,6 @@
+			body{
+				margin: 0px;
+			}
 			.nav{
 				background-color:#33d150;
 				width: 100%;
@@ -27,6 +30,6 @@
 			}
 			.logo{
 				float: left;
-				height: 30px;
-				width: 30px;
+				height: 40px;
+				width: 40px;
 			}
