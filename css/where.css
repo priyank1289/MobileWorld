@@ -1,0 +1,29 @@
+.product{
+				margin: auto;
+				width: 1000px;
+				height: auto;
+				margin-top: 40px;
+			}
+			.item{
+				height: 300px;
+				width: 250px;
+				float:left;
+			}
+			.item:hover{
+				box-shadow: 2px 2px 2px 2px #BBBBBB;
+				
+			}
+			.item-image{
+				margin-left: 25px ;
+				height : 200px;
+			}
+			.item-desc{
+				text-align: center;
+				font-family: serif;
+			}
+			#i2{
+				margin-left: 25px;
+			}
+			#i3{
+				margin-left: 45px;
+			}
