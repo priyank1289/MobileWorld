@@ -18,7 +18,7 @@
 				float:left;
 			}
 			.item:hover{
-				box-shadow: 2px 2px #BBBBBB;
+				box-shadow: 2px 2px 2px 2px #BBBBBB;
 			}
 			.item-image{
 				margin-left: 25px ;
